@@ -1,6 +1,6 @@
 <?php
 
-namespace filsh\yii2\oauth2server\traits;
+namespace springdev\yii2\oauth2mysqlserver\traits;
 
 trait ClassNamespace
 {

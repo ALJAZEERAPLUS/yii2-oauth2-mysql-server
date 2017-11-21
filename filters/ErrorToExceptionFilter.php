@@ -1,11 +1,11 @@
 <?php
 
-namespace filsh\yii2\oauth2server\filters;
+namespace springdev\yii2\oauth2mysqlserver\filters;
 
 use Yii;
 use yii\base\Controller;
-use filsh\yii2\oauth2server\Module;
-use filsh\yii2\oauth2server\exceptions\HttpException;
+use springdev\yii2\oauth2mysqlserver\Module;
+use springdev\yii2\oauth2mysqlserver\exceptions\HttpException;
 
 class ErrorToExceptionFilter extends \yii\base\Behavior
 {

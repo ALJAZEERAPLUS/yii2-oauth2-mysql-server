@@ -1,6 +1,6 @@
 <?php
 
-namespace filsh\yii2\oauth2server\exceptions;
+namespace springdev\yii2\oauth2mysqlserver\exceptions;
 
 class HttpException extends \yii\web\HttpException
 {

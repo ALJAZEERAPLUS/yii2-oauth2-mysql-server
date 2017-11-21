@@ -1,6 +1,6 @@
 <?php
 
-namespace filsh\yii2\oauth2server;
+namespace springdev\yii2\oauth2mysqlserver;
 
 use \Yii;
 use yii\i18n\PhpMessageSource;

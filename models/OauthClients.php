@@ -1,6 +1,6 @@
 <?php
 
-namespace filsh\yii2\oauth2server\models;
+namespace springdev\yii2\oauth2mysqlserver\models;
 
 use Yii;
 

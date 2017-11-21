@@ -1,13 +1,13 @@
 <?php
 
-namespace filsh\yii2\oauth2server;
+namespace springdev\yii2\oauth2mysqlserver;
 
 class Server extends \OAuth2\Server
 {
     use traits\ClassNamespace;
     
     /**
-     * @var \filsh\yii2\oauth2server\Module
+     * @var \springdev\yii2\oauth2mysqlserver\Module
      */
     protected $module;
     

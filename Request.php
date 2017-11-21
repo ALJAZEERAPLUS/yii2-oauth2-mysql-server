@@ -1,6 +1,6 @@
 <?php
 
-namespace filsh\yii2\oauth2server;
+namespace springdev\yii2\oauth2mysqlserver;
 
 class Request extends \OAuth2\Request
 {
