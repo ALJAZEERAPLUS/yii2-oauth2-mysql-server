@@ -6,7 +6,7 @@
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
-       "email": "admin@hellospring.net"
+        "email": "admin@hellospring.net"
     },
     "authors": [
         {
@@ -26,7 +26,7 @@
     "extra": {
         "bootstrap": "springdev\\yii2\\oauth2mysqlserver\\Bootstrap",
         "branch-alias": {
-            "dev-master": "1.2.x-dev"
+            "dev-master": "1.0.x-dev"
         }
     }
 }
