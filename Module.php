@@ -114,7 +114,7 @@ class Module extends \yii\base\Module
     
     public function getRequest()
     {
-        if(!$this->has('request')) {
+        if(!\yii\helpers\ArrayHelper::keyExists('request', $this->getComponents())) {
             $this->set('request', Request::createFromGlobals());
         }
         return $this->get('request');
